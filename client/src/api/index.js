@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:4000/api/",
+  baseURL: "https://e-commmerce-5f4w.onrender.com",
 });
 
 export const UserSignUp = async (data) => await API.post("/user/signup", data);

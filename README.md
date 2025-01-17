@@ -6,7 +6,7 @@ Welcome to this exciting project where we build a sleek and dynamic **eCommerce 
 - **Product Listings**: Display and categorize products dynamically.  
 - **Shopping Cart**: Add, update, and remove items with real-time updates.  
 - **User Authentication**: Secure user login and registration system.  
-- **Checkout Process**: Seamless order placement and payment integration.  
+- **Checkout Process**: Seamless order placement.  
 - **Responsive Design**: Fully optimized for both desktop and mobile devices.  
 
 ## 🔧 Tech Stack  
